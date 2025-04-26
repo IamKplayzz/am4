@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "DISCORD_TOKEN": "",  // Will be injected from ENV
+        "OFFICIAL_API_TOKEN": "",
+        "COMMAND_PREFIX": "$",
+        "DEBUG_CHANNELID": 0,
+        "BOTSPAM_CHANNELID": 0,
+        "PRICEALERT_CHANNELID": 0,
+        "PRICEALERT_ROLEID": 0,
+        "PRICEALERTBAN_ROLEID": 0,
+        "MODERATOR_ROLEID": 0,
+        "HELPER_ROLEID": 0,
+        "SERVER_ID": 0
+    },
+    "db": {
+        "PB_EMAIL": "admin@am4help.com",
+        "PB_PASSWORD": "admin@am4help.com"
+    },
+    "api": {
+        "HOST": "0.0.0.0",
+        "PORT": 8002,
+        "RELOAD": false
+    },
+    "LOG_LEVEL": "DEBUG",
+    "JSON_LOGS": false,
+    "DEBUG": false
+}
